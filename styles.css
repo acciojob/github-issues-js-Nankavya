@@ -1,2 +1,18 @@
 
-/* Your CSS Code here. */
+body{
+    background-color: black;
+    color: white;
+}
+
+.div-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid white;
+    height: 96vh;
+    width: 60vw;
+    margin-left: 15%;
+}
+
+* Your CSS Code here. */
